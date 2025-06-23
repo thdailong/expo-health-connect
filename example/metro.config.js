@@ -19,7 +19,7 @@ config.resolver.nodeModulesPaths = [
 ];
 
 config.resolver.extraNodeModules = {
-  'expo-health-connect': '..',
+  '@thdailong/expo-health-connect': '..',
 };
 
 config.watchFolders = [path.resolve(__dirname, '..')];

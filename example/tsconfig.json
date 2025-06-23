@@ -3,8 +3,8 @@
   "compilerOptions": {
     "strict": true,
     "paths": {
-      "expo-health-connect": ["../src/index"],
-      "expo-health-connect/*": ["../src/*"]
+      "@thdailong/expo-health-connect": ["../src/index"],
+      "@thdailong/expo-health-connect/*": ["../src/*"]
     }
   }
 }

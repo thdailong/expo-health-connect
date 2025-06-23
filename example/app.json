@@ -40,7 +40,7 @@
           }
         }
       ],
-      "expo-health-connect"
+      "@thdailong/expo-health-connect"
     ]
   }
 }

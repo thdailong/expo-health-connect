@@ -1,7 +1,7 @@
 {
-  "name": "expo-health-connect",
+  "name": "@thdailong/expo-health-connect",
   "version": "0.1.0",
-  "description": "Expo config plugin for react-native-health-connect",
+  "description": "Expo config plugin for @thdailong/react-native-health-connect",
   "main": "build/withHealthConnect.js",
   "types": "build/withHealthConnect.d.ts",
   "scripts": {
@@ -18,16 +18,16 @@
   "keywords": [
     "react-native",
     "expo",
-    "expo-health-connect",
+    "@thdailong/expo-health-connect",
     "ExpoHealthConnect"
   ],
-  "repository": "https://github.com/matinzd/expo-health-connect",
+  "repository": "https://github.com/thdailong/expo-health-connect",
   "bugs": {
-    "url": "https://github.com/matinzd/expo-health-connect/issues"
+    "url": "https://github.com/thdailong/expo-health-connect/issues"
   },
   "author": "matinzd <24797481+matinzd@users.noreply.github.com> (github.com/matinzd)",
   "license": "MIT",
-  "homepage": "https://github.com/matinzd/expo-health-connect#readme",
+  "homepage": "https://github.com/thdailong/expo-health-connect#readme",
   "dependencies": {},
   "devDependencies": {
     "@types/react": "^18.0.25",
